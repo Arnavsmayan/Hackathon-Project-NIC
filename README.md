@@ -20,5 +20,10 @@ Of course, no one template will serve all projects since your needs may be diffe
 * HTML
 * CSS
 
+# Our Team
+* Arnav Jain
+* Sidharth Dhawan
+* Shrihan Tayal
+* Lovish Garg
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
