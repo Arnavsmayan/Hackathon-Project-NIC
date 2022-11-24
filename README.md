@@ -1,4 +1,4 @@
-#About Our Project
+# About Our Project
 
 <div align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
