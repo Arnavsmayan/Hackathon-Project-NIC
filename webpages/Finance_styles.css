@@ -49,11 +49,11 @@ table {
   }
 
   tbody tr:nth-child(odd) {
-    background-color: #dc9898;
+    background-color: #efd7d7;
   }
   
   tbody tr:nth-child(even) {
-    background-color: #a6e4b3;
+    background-color: #50535142;
   }
   
   tbody tr {
@@ -61,5 +61,5 @@ table {
   }
   
   table {
-    background-color: #ede7c4;
+    background-color: #8bdaf4;
   }
