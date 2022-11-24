@@ -1,5 +1,5 @@
 # About Our Project
-
+<a name="readme-top"></a>
   <div align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
     <img src="images/logo.png" alt="Logo" width="100" height="100">
@@ -17,13 +17,8 @@ Of course, no one template will serve all projects since your needs may be diffe
   
 # Built With
   
-* [![Next][Next.js]][Next-url]
-* [![React][React.js]][React-url]
-* [![Vue][Vue.js]][Vue-url]
-* [![Angular][Angular.io]][Angular-url]
-* [![Svelte][Svelte.dev]][Svelte-url]
-* [![Laravel][Laravel.com]][Laravel-url]
-* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-* [![JQuery][JQuery.com]][JQuery-url]
+* HTML
+* CSS
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
