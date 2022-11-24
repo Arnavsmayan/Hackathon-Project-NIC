@@ -7,6 +7,8 @@
         <link rel="preconnect" href="https://fonts.googleapis.com">
         <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
         <link href="https://fonts.googleapis.com/css2?family=Nanum+Gothic&family=Ubuntu:wght@400;500&display=swap" rel="stylesheet">
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.0/css/fontawesome.min.css">
+        <link rel="preconnect" href="https://fonts.googleapis.com"> 
         
 
     </head>
@@ -16,20 +18,50 @@
             
             <nav>
                 <a href="homepage.html"><img src="" alt=""></a>
-                <div class="nav-links">
+                <div class="nav-links" id="navLinks  ">
+                    <i class="fa fa-times"onclick="hideMenu()"></i>
                     <ul>
-                        <li><a href="">HOME</a></li>
-                        <li><a href="">ABOUT</a></li>
-                        <li><a href="">CONTACT</a></li>
+                        <li><a href="homepage.html">HOME</a></li>
+                        <li><a href="https://www.india.gov.in/">ABOUT</a></li>
+                        <li><a href="https://www.india.gov.in/contact-us">CONTACT</a></li>
                     </ul>
+                    <i class="fa fa-bars"  onclick="showMenu()"></i>
                 </div>
             </nav>
             <div class="text-box">
                  <h1>ONE INDIA ONE PORTAL</h1>
-                 <p>xyz</p>
+                 <p>All in one platform for tracking progress of Implemented laws,<br>Transparency,Accountability of the Governing System</p>
             </div>
             
-        </section></body>
+        </section>
+        <section class="Sections">
+            <h1>MORE INFO</h1>
+            <p>Detailed information about the financial system , RTI for the problems faced by citizens<br> and E-services to be provided to them.</p>
+
+            <div class="row">
+                <div class="section-col">
+                    <img src="images/indian rupee.jpg" >
+                    <div class="layer">
+                        <h3>FINANCIAL BUDGET</h3>
+                    </div>
+                </div>
+                <div class="section-col">
+                    <img src="images/question-mark-on-black-background.jpg" >
+                    <div class="layer">
+                        <h3>RIGHT TO INFORMATION</h3>
+                    </div>
+                </div>
+                <div class="section-col">
+                    <img src="images/e services.jpg">
+                    <div class="layer">
+                        <h3>E-SERVICES</h3>
+                        <a href="https://services.india.gov.in/"></a>
+                    </div>
+                </div>
+            </div>
+
+        </section>
+    </body>
         
     </body>
 </html>
